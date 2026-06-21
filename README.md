@@ -61,7 +61,7 @@ If Scratch Studio contributes to your research, please cite it:
 ## Support
 
 Scratch Studio is free. If it saves you time at the bench, you can
-**[buy me a coffee ☕](https://github.com/sponsors/oktarguloglu)**.
+**[buy me a coffee ☕]([https://github.com/sponsors/oktarguloglu](https://github.com/sponsors/oktarguloglu?frequency=one-time&sponsor=oktarguloglu))**.
 
 ---
 

@@ -28,9 +28,9 @@ security warnings.
 
 ## What it does
 
-- **Import** time-lapse images, multi-well plates, microscopy stacks and videos
-  (PNG, TIFF, JPEG, BMP · MP4/MOV/AVI/MKV · CZI/ND2/LIF). Organise by condition,
-  timepoint and biological replicate.
+- **Import** time-lapse images, multi-well plates and videos (PNG, TIFF, JPEG,
+  BMP · MP4/MOV/AVI/MKV; export CZI/ND2/LIF vendor files to TIFF first).
+  Organise by condition, timepoint and biological replicate.
 - **Measure the wound** with a built-in classical detector, or with optional
   **on-device segmentation** (Cellpose / SAM 2) downloaded on first use; all
   processing is local, your images never leave your Mac.
@@ -53,7 +53,7 @@ security warnings.
 
 If Scratch Studio contributes to your research, please cite it:
 
-> Guloglu, M. O. *Scratch Studio* (Version 1.0.1) [Computer software].
+> Guloglu, M. O. *Scratch Studio* (Version 1.0.2) [Computer software].
 > https://github.com/oktarguloglu/scratch-studio
 
 ---

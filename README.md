@@ -1,5 +1,7 @@
 # Scratch Studio
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23751319.svg)](https://doi.org/10.5281/zenodo.23751319)
+
 ### Quantify cell migration. Beautifully.
 
 Scratch Studio is a macOS application for analysing **scratch / wound-healing
@@ -53,8 +55,12 @@ security warnings.
 
 If Scratch Studio contributes to your research, please cite it:
 
-> Guloglu, M. O. *Scratch Studio* (Version 1.0.2) [Computer software].
-> https://github.com/oktarguloglu/scratch-studio
+> Guloglu, M. O. (2026). *Scratch Studio* (Version 1.0.2) [Computer software].
+> Zenodo. https://doi.org/10.5281/zenodo.23751320
+
+That DOI identifies version 1.0.2. To cite Scratch Studio without pinning a
+version, use https://doi.org/10.5281/zenodo.23751319, which always resolves to
+the latest release.
 
 ---
 

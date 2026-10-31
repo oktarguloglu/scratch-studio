@@ -55,10 +55,10 @@ security warnings.
 
 If Scratch Studio contributes to your research, please cite it:
 
-> Guloglu, M. O. (2026). *Scratch Studio* (Version 1.0.2) [Computer software].
-> Zenodo. https://doi.org/10.5281/zenodo.23751320
+> Guloglu, M. O. (2026). *Scratch Studio* (Version 1.0.3) [Computer software].
+> Zenodo. https://doi.org/10.5281/zenodo.23825342
 
-That DOI identifies version 1.0.2. To cite Scratch Studio without pinning a
+That DOI identifies version 1.0.3. To cite Scratch Studio without pinning a
 version, use https://doi.org/10.5281/zenodo.23751319, which always resolves to
 the latest release.
 
